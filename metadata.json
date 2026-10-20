@@ -1,0 +1,6 @@
+{
+  "name": "LiverMount - Furniture & Home Decor Marketplace",
+  "description": "Shop premium solid wood furniture, contemporary sofas, bedroom sets, dining collections, and designer home decor at LiverMount.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
