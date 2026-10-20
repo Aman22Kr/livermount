@@ -1,12 +1,3 @@
-# LiverMount — Furniture & Home Decor Marketplace
-
-> **Live Reference Recreation:** Inspired by [Pepperfry](https://www.pepperfry.com/)  
-> **Brand Name:** LiverMount  
-> **GitHub User:** [Aman22kr](https://github.com/Aman22kr)  
-> **Repository:** `livermount`  
-> **Live Site URL:** `https://Aman22kr.github.io/livermount/`  
-
----
 
 ## 🛋️ About LiverMount
 
